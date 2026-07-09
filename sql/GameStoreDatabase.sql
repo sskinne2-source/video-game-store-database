@@ -11,10 +11,10 @@
 USE master
 GO
 
-IF DB_ID('GameStoreDatabaseSample') IS NOT NULL
-	DROP DATABASE GameStoreDatabaseSample;
+IF DB_ID('GameStoreDatabase') IS NOT NULL
+	DROP DATABASE GameStoreDatabase;
 
-CREATE DATABASE GameStoreDatabaseSample;
+CREATE DATABASE GameStoreDatabase;
 
 USE GameStoreDatabaseSample;
 GO
