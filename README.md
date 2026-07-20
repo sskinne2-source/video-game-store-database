@@ -75,9 +75,10 @@ Potential enhancements include:
 - Performance optimization using indexes
 - Additional analytical dashboards
 
-## Author
+## Project Information
 
-**Sean Skinner**
+Developed as part of the Arizona State University Advanced Database Management course.
 
-M.S. Data Science, Analytics, and Engineering  
-Arizona State University
+Primary portfolio owner: Sean Skinner
+
+Originally completed as a collaborative academic project.
