@@ -16,7 +16,7 @@ The project demonstrates database normalization, SQL programming, stored procedu
 - T-SQL
 - SQL Server Management Studio
 
-- ## Features
+## Features
 
 - Designed a normalized relational database schema
 - Implemented primary and foreign key relationships
@@ -27,7 +27,7 @@ The project demonstrates database normalization, SQL programming, stored procedu
 - Implemented triggers to automatically audit database changes
 - Used cursors to perform row-by-row processing
 
-- ## Database Objects
+## Database Objects
 
 The database contains:
 
@@ -38,7 +38,7 @@ The database contains:
 - Audit Tables
 - Business Reporting Queries
 
-- ## Repository Structure
+## Repository Structure
 
 ```
 video-game-store-database/
@@ -64,7 +64,7 @@ video-game-store-database/
 - Database Auditing
 - Data Integrity
 
-- ## Future Improvements
+## Future Improvements
 
 Potential enhancements include:
 
@@ -75,7 +75,7 @@ Potential enhancements include:
 - Performance optimization using indexes
 - Additional analytical dashboards
 
-- ## Author
+## Author
 
 **Sean Skinner**
 
